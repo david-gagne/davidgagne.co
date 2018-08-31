@@ -1,0 +1,13 @@
+.logo {
+    background-color: #ffeb3b;
+    width: 52px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    border-left: 1px solid #212121;
+    border-right: 1px solid #212121;
+    border-bottom: 1px solid #212121;
+    margin-left: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
